@@ -356,8 +356,6 @@ aside fieldset {
     fieldset {
         display: none;
     }
-
-
 }
 
 
@@ -538,14 +536,14 @@ aside fieldset {
 .features {
     display: flex;
     margin: auto;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-direction: row;
     flex-wrap: wrap;
-
+    padding: 3rem;
 }
 
 .fblock {
-    padding: .4rem;
+    padding: 2rem;
     flex: 1;
     justify-content: center;
     display: flex;
@@ -562,7 +560,14 @@ aside fieldset {
 
 .fblock p {
     padding-top: 1rem;
+    display: flex;
+    margin: auto;
 
+}
+
+.fblock img {
+    display: flex;
+    margin: auto;
 }
 
 
@@ -625,7 +630,7 @@ aside fieldset {
 .member .text {
     padding: 1rem;
 }
-
+/****** Github button on team page ****/
 .aboutBtn.fab.fa-github {
     color: #00897B;
     border: 1px solid #00897B;
@@ -637,7 +642,6 @@ aside fieldset {
 
 .aboutBtn.fab.fa-github:hover {
     background: #f4f4f4;
-    border: 1px solid #00897B;
     box-sizing: border-box;
     border-radius: 10px;
     color: #565656;
@@ -645,11 +649,13 @@ aside fieldset {
 /*********************** Footer ******************/
 
 
+/*** Footer links need to be updated ***/
+
 footer {
     display: flex;
     padding-top: 5rem;
     border-top: 2px solid #B8DEDA;
-    margin-top: 2rem;
+    margin: 2rem 1rem 4rem 1rem;
 
 }
 
