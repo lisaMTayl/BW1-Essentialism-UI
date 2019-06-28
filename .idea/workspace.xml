@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6faaf00-0e8e-4c37-bdf0-e6fafc69bd1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/Colton Illustration.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/6by7k29n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/Arthur.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/Colton Illustration.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/Colton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/JackSVG.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/Logo - Essentialism.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/Ruben.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/V.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/lisa.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/p1agylup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/undraw_contemplating_8t0x.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/undraw_going_up_ttm5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/undraw_hang_out_h9ud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/undraw_questions_75e0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/undraw_task_31wc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img/undraw_working_remotely_jh40.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_Choose_bwbs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_balloons_vxx5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_creative_thinking_b3bc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_freelancer_b0my.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_messaging_uok8.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_onboarding_o8mv.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_superhero_kguv.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_web_development_w2vv.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw_working_remotely_jh40.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/js/tabs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a6faaf00-0e8e-4c37-bdf0-e6fafc69bd1b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +17,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.4842181">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/js/tabs.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="135">
                   <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="297">
-                  <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -86,11 +44,29 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="540">
                   <caret line="154" column="3" lean-forward="true" selection-start-line="154" selection-start-column="3" selection-end-line="154" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="297">
+                  <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/about.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="15" selection-start-line="15" selection-end-line="39" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
@@ -179,15 +155,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
@@ -214,16 +191,15 @@
       <option name="presentableId" value="Default" />
       <updated>1561736439775</updated>
       <workItem from="1561736442417" duration="2759000" />
-      <workItem from="1561743734673" duration="2595000" />
+      <workItem from="1561743734673" duration="2862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5354000" />
+    <option name="totallyTimeSpent" value="5621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="1080" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25294748" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -238,7 +214,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33116177" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33116177" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -276,27 +252,27 @@
     <entry file="file://$PROJECT_DIR$/js/tabs.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" selection-start-line="15" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/undraw_creative_thinking_b3bc.svg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/js/tabs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="688" column="27" lean-forward="true" selection-start-line="688" selection-start-column="27" selection-end-line="688" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="154" column="3" lean-forward="true" selection-start-line="154" selection-start-column="3" selection-end-line="154" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/js/tabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -307,10 +283,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="154" column="3" lean-forward="true" selection-start-line="154" selection-start-column="3" selection-end-line="154" selection-end-column="3" />
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="39" selection-end-column="10" />
         </state>
       </provider>
     </entry>
