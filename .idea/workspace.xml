@@ -78,6 +78,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&quot;#&quot;</find>
+      <find>wrapper</find>
     </findStrings>
     <replaceStrings>
       <replace>https://unruffled-haibt-0c1f67.netlify.com/</replace>
