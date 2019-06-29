@@ -539,7 +539,7 @@ aside fieldset {
     justify-content: space-around;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 3rem;
+    padding: 1rem;
 }
 
 .fblock {
